@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/weppos/autopull",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/weppos/publicsuffix-go/publicsuffix",
+			"Comment": "v0.1.0-8-gbade7fb",
+			"Rev": "bade7fbe40dfe5c1af82bc4637f1f35bfcc03e19"
+		}
+	]
+}
