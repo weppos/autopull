@@ -29,7 +29,9 @@ func init() {
 		{ {{$r.Type}}, "{{$r.Value}}", {{$r.Length}}, {{$r.Private}} },
 		{{end}}
 	}
-	DefaultList.rules = r[:]
+	for i := range r {
+		DefaultList.AddRule(&r[i])
+	}
 }
 
 `
