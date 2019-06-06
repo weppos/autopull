@@ -1,0 +1,9 @@
+github.com/google/go-github v0.0.0-20180227163219-ddf9d548a0f4 h1:Jf9+W97CySATiFVeA/AhzSEKuZKIE6maPqjR0UcsMy0=
+github.com/google/go-github v0.0.0-20180227163219-ddf9d548a0f4/go.mod h1:zLgOLi98H3fifZn+44m+umXrS52loVEgC2AApnigrVQ=
+github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135 h1:zLTLjkaOFEFIOxY5BWLFLwh+cL8vOBW4XJ2aqLE/Tf0=
+github.com/google/go-querystring v0.0.0-20170111101155-53e6ce116135/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
+github.com/weppos/publicsuffix-go v0.0.0-20180330092534-77e634ec5d94 h1:ucwiw7ZChbrqyfLjua+Q/8uBWLSzNp6Wx+qnGYqELko=
+github.com/weppos/publicsuffix-go v0.0.0-20180330092534-77e634ec5d94/go.mod h1:z3LCPQ38eedDQSwmsSRW4Y7t2L8Ln16JPQ02lHAdn5k=
+golang.org/x/net v0.0.0-20160422230351-b797637b7aee h1:LHJDNgV3K7R9ph4NfUcewibKWNU4kFPbw2w6XPaY5Cw=
+golang.org/x/net v0.0.0-20160422230351-b797637b7aee/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
+golang.org/x/text v0.0.0-20180302201248-b7ef84aaf62a/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
